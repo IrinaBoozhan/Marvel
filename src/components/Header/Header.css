@@ -1,0 +1,40 @@
+header {
+   padding: 20px;
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+   width: 100%;
+   font-size: 55px;
+   font-weight: bold;
+   background: url(../../img/Marvel_desk.jpg) no-repeat center bottom;
+   height: 350px;
+   background-color: #000;
+   position: relative;
+}
+.navHeader {
+   position: absolute;
+   bottom: 20px;
+}
+.navHeader > span {
+   font-weight: 500;
+   text-decoration: none;
+   padding: 0 20px;
+}
+
+a {
+   font-size: 40px;
+   text-decoration: none;
+   padding: 0 20px;
+}
+
+a {
+   color: #fff;
+}
+
+a:active,
+a:hover {
+   color: red;
+}

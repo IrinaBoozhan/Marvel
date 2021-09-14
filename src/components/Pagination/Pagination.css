@@ -1,0 +1,32 @@
+.pagination {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.pagination > ul {
+   display: flex;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+.paginationItem {
+   display: flex;
+
+   justify-content: center;
+   align-items: center;
+}
+
+button {
+   width: 60px;
+   height: 50px;
+   border: 1px solid red;
+   margin: 5px;
+   background-color: #fff;
+}
+
+button:hover {
+   background-color: rgba(226, 43, 43, 0.224);
+}
+button:active {
+   background-color: rgba(226, 43, 43, 0.224);
+}

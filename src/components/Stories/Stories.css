@@ -1,0 +1,14 @@
+.storyInfo {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+}
+
+.storyCard {
+   padding: 30px;
+}
+
+.storyInfo > p {
+   padding: 0;
+   margin: 0;
+}
