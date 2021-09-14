@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Marvel/static/css/main.aed7b743.chunk.css",
+    "main.js": "/Marvel/static/js/main.571fd8f4.chunk.js",
+    "main.js.map": "/Marvel/static/js/main.571fd8f4.chunk.js.map",
+    "runtime-main.js": "/Marvel/static/js/runtime-main.472d8828.js",
+    "runtime-main.js.map": "/Marvel/static/js/runtime-main.472d8828.js.map",
+    "static/js/2.4d554cd2.chunk.js": "/Marvel/static/js/2.4d554cd2.chunk.js",
+    "static/js/2.4d554cd2.chunk.js.map": "/Marvel/static/js/2.4d554cd2.chunk.js.map",
+    "index.html": "/Marvel/index.html",
+    "static/css/main.aed7b743.chunk.css.map": "/Marvel/static/css/main.aed7b743.chunk.css.map",
+    "static/js/2.4d554cd2.chunk.js.LICENSE.txt": "/Marvel/static/js/2.4d554cd2.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/Marvel/static/media/Marvel_desk.659f20fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472d8828.js",
+    "static/js/2.4d554cd2.chunk.js",
+    "static/css/main.aed7b743.chunk.css",
+    "static/js/main.571fd8f4.chunk.js"
+  ]
+}
